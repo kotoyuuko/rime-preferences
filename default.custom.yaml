@@ -1,0 +1,28 @@
+# Rime schema
+# encoding: utf-8
+
+patch:
+  # 设置每页候选词数量
+  "menu/page_size": 7
+  # 设置可选的输入方式
+  schema_list:
+    - schema: double_pinyin_flypy
+  # 关闭输入方式选择的二级菜单，替换显示信息和热键
+  "switcher/fold_options": false
+  "switcher/caption": "-"
+  "switcher/hotkeys": 
+    - "Alt+grave"
+  # 按 Shift 切换中英文输入时直接上屏
+  "ascii_composer/switch_key":
+    Caps_Lock: noop
+    Shift_L: commit_code
+    Shift_R: inline_ascii
+    Control_L: clear
+    Control_R: commit_text
+  # 减少快捷键防止和应用程序冲突（比如 Emacs）
+  "key_binder/bindings":
+    - {accept: minus, send: Page_Up, when: has_menu}
+    - {accept: equal, send: Page_Down, when: has_menu}
+    - {accept: comma, send: Page_Up, when: paging}
+    - {accept: period, send: Page_Down, when: has_menu}
+    - {accept: "Shift+space", toggle: full_shape, when: always}

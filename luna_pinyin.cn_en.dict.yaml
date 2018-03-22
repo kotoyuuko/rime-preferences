@@ -1,0 +1,229 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Luna Pinyin Extended Dictionary(Chinese&English) - 明月拼音擴充詞庫（含西文的詞彙）
+#
+#   瑾昀 <cokunhui@gmail.com>
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: luna_pinyin.cn_en
+version: "2015.1.18"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+ AA 制	a a zhi	100
+ AirDrop	air	100
+ AirDrop	airdrop	100
+ AirPods	air	100
+ AirPods	airpods	100
+ AMD	a m d	100
+ Apple	apple	100
+ Apple	app	100
+ App Store	app	100
+ App Store	appstore	100
+ ATI	ati	100
+ ATM 機	a t m ji	100
+ Android	and	100
+ Android	android	100
+ Arduino	ard	100
+ Arduino	arduino	100
+ Amazon	ama	100
+ Amazon	amazon	100
+ A 片	a pian	100
+ A 盤	a pan	100
+ A 股	a gu	100
+ Bing	bing	100
+ B 淋巴細胞	b lin ba xi bao	100
+ B 盤	b pan	100
+ B 細胞	b xi bao	100
+ B 股	b gu	100
+ B 超	b chao	100
+ C 盤	c pan	100
+ C 語言	c yu yan	100
+ Chrome	chr	100
+ Chrome	chrome	100
+ Code	code	100
+ DNA	d n a	100
+ DuckDuckGo	duck	100
+ DuckDuckGo	duckduckgo	100
+ DVD	d v d	100
+ D 盤	d pan	100
+ Dropbox	drop	100
+ Dropbox	dropbox	100
+ eBay	ebay	100
+ Emacs	ema	100
+ Emacs	emacs	100
+ E 盤	e pan	100
+ Excel	xls	100
+ Excel	excel	100
+ F 盤	f pan	100
+ Facebook	face	100
+ Facebook	facebook	100
+ FaceTime	face	100
+ FaceTime	facetime	100
+ Firefox	fire	100
+ Firefox	forefox	100
+ Flickr	fli	100
+ Flickr	flickr	100
+ Git	git	100
+ GitHub	git	100
+ GitHub	github	100
+ Google	goo	100
+ Google	google	100
+ G 盤	g pan	100
+ G 點	g dian	100
+ H 盤	h pan	100
+ H 股	h gu	100
+ IBM	ibm	100
+ Intel	intel	100
+ iTunes	itu	100
+ iTunes	itunes	100
+ Instagram	ins	100
+ Instagram	instagram	100
+ IP	i p	100
+ IPv6	i p v liu	100
+ IPv4	i p v si	100
+ IP 位址	i p wei zhi	100
+ IP 卡	i p ka	100
+ IP 地址	i p di zhi	100
+ IP 電話	i p dian hua	100
+ I 盤	i pan	100
+ J 盤	j pan	100
+ Java	java	100
+ K 歌	k ge	100
+ K 歌	kei ge	100
+ K 粉	k fen	100
+ K 粉	kei fen	100
+ K 金	k jin	100
+ K 金	kei jin	100
+ Keynote	key	100
+ Keynote	keynote	100
+ LinkedIn	link	100
+ LinkedIn	linkedin	100
+ Linux	linux	100
+ Lisp	lisp	100
+ MIPS	m i p s	100
+ MP3	m p san	100
+ MP4	m p si	100
+ Mac	mac	100
+ Microsoft	micro	100
+ Microsoft	microsoft	100
+ Netflix	net	100
+ Netflix	netflix	100
+ Numbers	num	100
+ Numbers	numbers	100
+ Nvidia	nvidia	100
+ Opera	opera	100
+ Pages	pages	100
+ PayPal	pay	100
+ PayPal	paypal	100
+ POS 機	p o s ji	100
+ PowerPoint	ppt	100
+ PowerPoint	pow	100
+ PowerPoint	powerpoint	100
+ Python	py	100
+ Python	python	100
+ PTT	ptt	100
+ QQ	q q	1000
+ QQ 會員	q q hui yuan	100
+ QQ 羣	q q qun	100
+ QQ 號	q q hao	100
+ QQ 號碼	q q hao ma	100
+ QQ 空間	q q kong jian	100
+ QQ 郵箱	q q you xiang	100
+ Q 幣	q bi	100
+ QuickTime	qui	100
+ QuickTime	quicktime	100
+ Rime	rime	100
+ Rime	zhong zhou yun	100
+ Safari	saf	100
+ Safari	safari	100
+ Scheme	sch	100
+ Scheme	scheme	100
+ SIM 卡	s i m ka	100
+ Spotify	spot	100
+ Spotify	spotify	100
+ Spotlight	spot	100
+ Spotlight	spot	100
+ Studio	stu	100
+ Studio	studio	100
+ Tumblr	tum	100
+ Tumblr	tumblr	100
+ Twitch	twi	100
+ Twitch	twitch	100
+ Twitter	twi	100
+ Twitter	twitter	100
+ T 型臺	t xing tai	100
+ T 恤	t xu	100
+ T 恤衫	t xu shan	100
+ T 淋巴細胞	t lin ba xi bao	100
+ T 細胞	t xi bao	100
+ UIM 卡	u i m ka	100
+ USB	u s b	100
+ USIM 卡	u s i m ka	100
+ U 形管	u xing guan	100
+ U 盤	u pan	100
+ U 盾	u dun	100
+ Unix	unix	100
+ VIM	vim	100
+ Visual	vis	100
+ Visual	visual	100
+ WhatsApp	what	100
+ WhatsApp	whatsapp	100
+ Wi-Fi	wai fai	100
+ Wi-Fi	wi fi	100
+ WiFi	wai fai	100
+ WiFi	wi fi	100
+ Wikipedia	wiki	100
+ Wikipedia	wikipedia	100
+ Windows	win	100
+ Windows	windows	100
+ Word	doc	100
+ Word	word	100
+ Xeon	xeon	100
+ X 光	x guang	100
+ X 刀	x dao	100
+ X 射線	x she xian	100
+ X 染色體	x ran se ti	100
+ Y 染色體	y ran se ti	100
+ Xcode	xcode	100
+ Yahoo	yahoo	100
+ Yandex	yan	100
+ Yandex	yandex	100
+ YouTube	you	100
+ YouTube	youtube	100
+ iMessage	ime	100
+ iMessage	i message	100
+ iOS	i os	100
+ iPad	i pad	100
+ iPhone	i phone	100
+ iPod	i pod	100
+ iWatch	i watch	100
+ iWork	iwork	100
+ iBooks	ibo	100
+ iBooks	ibooks	100
+ z 變換	z bian huan	100
+ z 逆變換	z ni bian huan	100
+ α 射線	a er fa she xian	100
+ α 粒子	a er fa li zi	100
+ β 射線	bei ta she xian	100
+ β 粒子	bei ta li zi	100
+ γ 刀	ga ma dao	100
+ γ 射線	ga ma she xian	100
+三 K 黨	san k dang	100
+三 K 黨	san kei dang	100
+卡拉 OK	ka la o k	100
+哆啦 A 夢	duo la a meng	100
+單邊 z 變換	dan bian z bian huan	100
+智能 ABC	zhi neng a b c	100
+阿 Q	a q	100
+阿 Q 正傳	a q zheng zhuan	100
